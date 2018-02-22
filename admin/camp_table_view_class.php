@@ -1,6 +1,6 @@
 <?php
-if(!class_exists('WP_List_Table')){
-    require_once('class-wp-list-table');
+if(!class_exists('IW_List_Table')){
+    require_once('class-wp-list-table.php');
 }
 class Campaign_list_table extends IW_List_Table {
     
