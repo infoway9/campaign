@@ -13,6 +13,7 @@ require_once(CAMPAIGN_PLUGIN_PATH . '/save_work.php');
 require_once(CAMPAIGN_PLUGIN_PATH . '/admin/admin_dasboard_menu.php');
 require_once(CAMPAIGN_PLUGIN_PATH . '/admin/camp_details.php');
 require_once(CAMPAIGN_PLUGIN_PATH . '/admin/fund_details.php');
+require_once(CAMPAIGN_PLUGIN_PATH . '/admin/class-wp-list-table.php');
 require_once(CAMPAIGN_PLUGIN_PATH . '/admin/camp_table_view_class.php');
 require_once(CAMPAIGN_PLUGIN_PATH . '/admin/fund_table_view_class.php');
 require_once(CAMPAIGN_PLUGIN_PATH . '/admin/paypal_settings.php');
